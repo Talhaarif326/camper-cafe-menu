@@ -12,6 +12,9 @@ A Camper Cafe menu website built using HTML and CSS
 - HTML5
 - CSS3
 
+## Live Demo
+[View Live Site](https://cafe-menu-talha.netlify.app/)
+
 ## Screenshot
 ![Camper Cafe Menu](screenshot.png)
 
