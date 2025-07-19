@@ -12,9 +12,6 @@ A Camper Cafe menu website built using HTML and CSS
 - HTML5
 - CSS3
 
-## Live Demo
-[View Live Site](https://Talhaarif326.github.io/camper-cafe-menu)
-
 ## Screenshot
 ![Camper Cafe Menu](screenshot.png)
 
